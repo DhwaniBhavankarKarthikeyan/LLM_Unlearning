@@ -90,7 +90,6 @@ Neuro-Refine is an industrial project aimed at addressing the critical issue of 
 ---
 
 ## References
-- [LLM Unlearning at SEMEval 2025](https://llmunlearningsemeval2025.github.io)
 - [Key Research Papers](https://arxiv.org/pdf/2406.08607)
 - [YouTube Demos](https://www.youtube.com/watch?v=em9F6fyq8yU)
 
